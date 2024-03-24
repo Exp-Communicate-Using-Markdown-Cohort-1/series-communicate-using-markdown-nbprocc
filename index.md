@@ -12,3 +12,10 @@
 ```
 print("eat my shorts")
 ```
+
+
+
+- [x] Make some lists
+- [x] code some stuffs
+- [ ] ???
+- [ ] profit
